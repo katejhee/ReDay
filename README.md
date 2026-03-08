@@ -1,14 +1,38 @@
-# Re:Day
+# 🌤 Re:Day
 
-Re:Day is an AI-based life logging service that automatically organizes photos, notes, and voice records into daily memories.
+**Re:Day는 하루의 작은 기록들을 모아 하나의 기억으로 만들어주는 라이프 로그 앱입니다.**
 
-## Features
-- Photo / memo / voice recording
-- Automatic memory generation
-- Daily memory timeline
-- Keyword search
+사진, 한 줄 메모, 짧은 음성 기록을 남기면  
+Re:Day가 시간과 흐름을 기반으로 자동 정리하여 **하루의 기억을 생성합니다.**
 
-## Architecture
-- Frontend
-- Backend
-- AI Memory Engine
+> 기록은 가볍게, 기억은 선명하게 ✨
+
+---
+
+## 📱 서비스 소개
+
+우리는 하루 동안 많은 순간을 경험하지만  
+사진, 메모, 녹음 등 기록들은 여러 앱에 흩어져 있습니다.
+
+Re:Day는 이러한 기록들을 모아  
+**하루의 기억 단위로 정리해주는 서비스**입니다.
+
+---
+
+## ✨ 주요 기능
+
+📸 **사진 기록**  
+사진을 간단히 추가하여 하루의 순간을 남길 수 있습니다.
+
+📝 **한 줄 메모**  
+짧은 메모로 오늘의 일을 기록할 수 있습니다.
+
+🎤 **음성 기록**  
+짧은 음성 녹음으로 순간의 생각을 남길 수 있습니다.
+
+🤖 **자동 기억 생성**  
+시간, 위치, 키워드를 기반으로 하루의 기록을 자동으로 정리합니다.
+
+---
+
+## 🧠 서비스 흐름
